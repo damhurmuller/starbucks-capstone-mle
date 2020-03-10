@@ -46,6 +46,7 @@ This is the data dictionary:
 * **proposal.pdf**: This document contains the initial project proposal I submitted prior to necessarily beginning this project.
 * **Starbucks_Capstone_notebook.ipynb** - My Jupyter Notebook containing all data exploration, cleaning, feature engineering, model building, hyperparameter tuning, and the results.
 * **report.pdf** - My final report contains all my final results and analyses as performed in the accompanying Jupyter notebook.
+* **README.md** - This file
 
 # Python Libraries Used
 
